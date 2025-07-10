@@ -30,4 +30,4 @@ JavaScript – For adding interactivity and logic
 
 📷 Demo
 
-(You can upload your own screen recording or GIF here)
+<img width="1916" height="1138" alt="Image" src="https://github.com/user-attachments/assets/d8bd295e-43fc-49f5-bf2a-7a295cbf940e" />
